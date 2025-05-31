@@ -11,9 +11,11 @@ header{
     background-color: #08052c;
     color: #ffffff;
     margin-bottom: 30px;
+    padding-bottom: 12px;
 }
 #icone{
-    height: 120px;
+    margin-top: 10px;
+    height: 100px;
 }
 h1{
     margin: 0;
